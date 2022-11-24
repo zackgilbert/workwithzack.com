@@ -41,19 +41,19 @@ This is not in any particular order.
   - TIL: [https://twitter.com/chimeracoder/status/1333434093372133382?s=21](https://twitter.com/chimeracoder/status/1333434093372133382?s=21)
 1. Ask me anything. Did I mention that already? I’m here to help you grow.
 
-**Communication Style** 
+#### Communication Style
 I tend to prefer thinking through all possible options initially on my own and narrowing down based on talking with and gathering feedback from others. I don’t prefer face-to-face, but acknowledge that it’s probably better. I have a tendency of [rubber ducking](https://www.parkersoftware.com/blog/rubber-ducking-not-just-a-funny-phrase/#:~:text=Rubber%20ducking%20is%20the%20shortened,bathroom%20toy%3A%20a%20rubber%20ducky.&text=In%20the%20story%2C%20a%20programmer,to%20a%20yellow%20plastic%20waterfowl). 
 
-**Feedback Preference** 
+#### Feedback Preference
 I’m very open to feedback. I acknowledge that there are others that probably know more than me (experience and specific context). I try not to bristle initially at feedback, but usually quickly come around to seeing the message and good behind it. Feedback on management approach is welcome.
 
-**Values & Principles** 
+#### Values & Principles
 Doing our absolute best on everything we create. Being resourceful and constantly learning vs. waiting for someone to tell me what to do.
 
-**Pet Peeves** 
+#### Pet Peeves
 When people give up quickly before trying to figure it out. Ugly deliverables. Office politics drive me nuts.
 
-**Energizers** 
+#### Energizers
 I thrive on momentum. Once I get moving I want to keep moving. I love exploring new ideas and thinking through the systems for making them happen.
 
 ### How I like to be managed:
