@@ -17,24 +17,24 @@ Status: living, updated November 2022
 This is not in any particular order.
 1. Ask me _anything_. I am an open book, I delight in sharing experiences, and I will always be completely transparent with you.
 1. People refer to me as Zack, though technically my first name is Zachary. My last name is Gilbert Kreiling (think of it as hyphenated but without the hyphen), but you may sometimes see it listed as just Gilbert.
-  1. My pronouns are he/him/his.
+  - My pronouns are he/him/his.
 1. I am based in Chicago (Central Time), but also spend a good amount of time in central Wisconsin (also Central Time).
 1. I _typically_ work from ~10:30am Central time to 6:00pm Central time. It may vary.
-  1. I take my son to the nanny between 9:30am and 10:30am on Mondays, Tuesdays, Wednesdays and Thursdays, so try not to schedule meetings during this time.
+  - I take my son to the nanny between 9:30am and 10:30am on Mondays, Tuesdays, Wednesdays and Thursdays, so try not to schedule meetings during this time.
 1. On Fridays, I am the primary parent on duty and try not to accept any meetings unless it's super important. This is specifically to allow dedicated and focused time for learning and development and to catch up on tasks that slipped through the cracks earlier in the week, but also to allow me to spend more time with my son and family.
-  1. Wednesday’s are also a little tough for scheduling meetings being that we don’t always have dedicated help on this day. 
+  - Wednesday’s are also a little tough for scheduling meetings being that we don’t always have dedicated help on this day. 
 1. Weekends are not for work. They are for time with my family.
 1. Comms! I primarily use Slack, and email. I'm happy to use Google Meetings/Zoom/Teams/etc if a little face time is needed. I'm also happy to communicate via txt message if you'd like. Just ask.
 1. If you receive an email from me out of hours, then the right interpretation is “because Zack is overly-obsessed and can’t sleep” - not that Zack needs you to respond right now. I’m frequently behind by a few days, and that’s ok. I do NOT expect anyone else to follow that lead. **Work to your own schedule**.
   1. This is the same with chats/DMs etc
 1. I believe in “clean” downtime, as in: time off where you go firmly offline work-wise. Make sure you spend enough of your vacation days this way; it’s valuable, healthy, and important.
 1. Amongst other things I value humility, decency, honesty, straightforwardness, and dependability.
-  1. Call me out straight away if I miss the mark on any of these.
-  1. Also call me out if I miss the mark on anything else! I value honesty, and I need to learn how to grow.
+  - Call me out straight away if I miss the mark on any of these.
+  - Also call me out if I miss the mark on anything else! I value honesty, and I need to learn how to grow.
 1. I like to absorb as much information as I can, even if it seems unrelated. I strive to be a specialized generalist.
 1. My driving characteristics are a desire to solve problems and to be helpful. This can often mean I get sucked into projects I shouldn’t. I am working on saying no to things that aren’t in my primary focus.
 1. The last time I took the Myers Briggs (2019-02-04), I was an [INFP-T](https://www.16personalities.com/infp-personality). [See ranking](https://share.getcloudapp.com/ApuO4gvn).
-  1. TIL: [https://twitter.com/chimeracoder/status/1333434093372133382?s=21](https://twitter.com/chimeracoder/status/1333434093372133382?s=21)
+  - TIL: [https://twitter.com/chimeracoder/status/1333434093372133382?s=21](https://twitter.com/chimeracoder/status/1333434093372133382?s=21)
 1. Ask me anything. Did I mention that already? I’m here to help you grow.
 
 **Communication Style** 
