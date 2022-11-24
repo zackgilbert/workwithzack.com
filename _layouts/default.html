@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+  
+      {{ content }}
+
+      <footer>
+        <p>Hosted on GitHub Pages &bullet; Copyright &copy; <a href="https://zackgilbert.com">Zack Gilbert</a> 2022 &bullet; Made with ♥ in Chicago + Wisconsin.</p>
+      </footer>
+    </div>
+
+    <!-- Fathom - beautiful, simple website analytics -->
+    <script src="https://cdn.usefathom.com/script.js" data-site="DDVLHAQT" defer></script>
+    <!-- / Fathom -->
+  </body>
+</html>
