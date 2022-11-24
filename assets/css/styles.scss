@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a:hover, a:focus {
+  color: #069;
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+footer {
+    width: auto;
+    float: none;
+    position: relative;
+    bottom: 0px;
+}
