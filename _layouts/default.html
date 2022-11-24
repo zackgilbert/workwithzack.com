@@ -6,14 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
+    <styles>
+    a:hover, a:focus { color: #069; font-weight: normal; text-decoration: underline; }
+    </styles>
   </head>
   <body>
     <div class="wrapper">
       {{ content }}
 
       <hr>
-      <p>Hosted on GitHub Pages &bullet; Copyright &copy; <a href="https://zackgilbert.com">Zack Gilbert</a> 2022 &bullet; Made with ♥ in Chicago + Wisconsin.</p>
+      <p style="text-align: center;">Hosted on GitHub Pages &bullet; Copyright &copy; <a href="https://zackgilbert.com">Zack Gilbert</a> 2022 &bullet; Made with ♥ in Chicago + Wisconsin.</p>
     </div>
 
     <!-- Fathom - beautiful, simple website analytics -->
