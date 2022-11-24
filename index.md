@@ -3,10 +3,14 @@ layout: default
 ---
 
 # Working with Zack
-Author: [zackgilbert@gmail.com](mailto:zackgilbert@gmail.com) 
-Timeline: [https://zackgilbert.com](https://zackgilbert.com) 
-Creation Date: February 2019 
-Status: living, updated November 2022 
+Author: [zackgilbert@gmail.com](mailto:zackgilbert@gmail.com)
+
+Timeline: [https://zackgilbert.com](https://zackgilbert.com)
+
+Creation Date: February 2019
+
+Status: living, updated November 2022
+
 
 ### Current Priorities:
 1. Spending time with and caring for my wife and son.
