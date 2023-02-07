@@ -9,13 +9,13 @@ Timeline: [https://zackgilbert.com](https://zackgilbert.com)
 
 Creation Date: February 2019
 
-Status: living, updated November 2022
+Status: living, updated February 2023
 
 
 ### Current Priorities:
 1. Spending time with and caring for my wife and son.
-1. Personal health and wellbeing.
 1. Engineering lead at able.com. Defining and guiding the team’s engineering priorities.
+1. Learning how to optimize and [rebuild](https://rebuild.zackgilbert.com) my process and systems.
 
 ### Work stuff to know:
 This is not in any particular order.
@@ -78,6 +78,7 @@ I thrive on momentum. Once I get moving I want to keep moving. I love exploring 
 * Black Lives Matter / LGBTQ+ rights are human rights.
 * Politics can’t and shouldn’t be left at the door when you come to work. Silence is complicity.
 * You can't get milk at a hardware store.
+* Think big, but start small.
 
 ### Beliefs as a Manager:
 1. My primary job is to keep you unblocked and able to continue to learn, grow and do the best work you can.
